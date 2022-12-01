@@ -5,3 +5,7 @@ The folder contains test projects for python import modules:
 * 3. Infinite addition [3-infinite_add.py](./3-infinite_add.py)
 * 4. Who are you? [4-hidden_discovery.py](./4-hidden_discovery.py)
 * 5. Everything can be imported [5-variable_load.py](./5-variable_load.py)
+* 6. Build my own calculator! [100-my_calculator.py](./100-my_calculator.py)
+* 7. Easy print [101-easy_print.py](./101-easy_print.py)
+* 8. ByteCode -> Python #3 [102-magic_calculation.py](./102-magic_calculation.py)
+* 9. Fast alphabet [103-fast_alphabet.py](./103-fast_alphabet.py)
