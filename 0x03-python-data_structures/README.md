@@ -13,3 +13,4 @@ The following practice exercies are for python data structures:
 * 11. Delete at [11-delete_at.py](./11-delete_at.py)
 * 12. Switch [12-switch.py](./12-switch.py)
 * 13. Linked list palindrome [13-is_palindrome.c](./13-is_palindrome.c), [lists.h](./lists.h)
+* 14. CPython #0: Python lists [100-print_python_list_info.c](./100-print_python_list_info.c)
