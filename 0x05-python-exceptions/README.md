@@ -6,3 +6,7 @@ The following are python exceptions exercises:
 * 4. Divide a list [4-list_division.py](./4-list_division.py)
 * 5. Raise exception [5-raise_exception.py](./5-raise_exception.py)
 * 6. Raise a message [6-raise_exception_msg.py](./6-raise_exception_msg.py)
+* 7. Safe integer print with error message [100-safe_print_integer_err.py](./100-safe_print_integer_err.py)
+* 8. Safe function [101-safe_function.py](./101-safe_function.py)
+* 9. ByteCode -> Python #4 [102-magic_calculation.py](./102-magic_calculation.py)
+* 10. CPython #2: PyFloatObject [103-python.c](./103-python.c)
