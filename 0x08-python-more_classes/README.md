@@ -9,3 +9,4 @@ The following folder contains the exercises below:
 * 7. Change representation [7-rectangle.py](./7-rectangle.py)
 * 8. Compare rectangles [8-rectangle.py](./8-rectangle.py)
 * 9. A square is a rectangle [9-rectangle.py](./9-rectangle.py)
+* 10. N queens [101-nqueens.py](./101-nqueens.py)
